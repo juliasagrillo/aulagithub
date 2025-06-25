@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(156, 87, 124);
+    font-family: caveat, cursive;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+
+
+.box {
+    background-color:rgb(107, 47, 45);
+    border: 2px solid white;
+    border-radius: 15px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    margin: 30px auto;
+    width: 80%;
+    max-width: 600px;
+    color: white;
+    text-align: center;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    text-align: center;
+}
+
+
+a{
+   text-align: center;
+   font-family: cavet cursive;
+   text-align: center;
+}
+
+
+a:hover {
+    color: rgb(107, 47, 45);
+    text-decoration: underline;
+}
+
