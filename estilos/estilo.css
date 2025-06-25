@@ -30,6 +30,7 @@ p {
     max-width: 600px;
     color: white;
     text-align: center;
+    box-shadow: 2px 2px 4px #000;
 }
 
 
@@ -53,3 +54,10 @@ a:hover {
     text-decoration: underline;
 }
 
+a:visited {
+    color: ligtgray;
+}
+a:link {
+    color: antiquewhite;
+    text-decoration: none;
+}
